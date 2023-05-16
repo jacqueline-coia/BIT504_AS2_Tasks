@@ -1,5 +1,9 @@
 package BIT504_AS2_Tasks;
 
-public enum Player {
+/**
+ * Enumeration for the players move
+ */
 
+public enum Player {
+	Empty, Cross, Nought
 }
